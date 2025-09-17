@@ -1,0 +1,12 @@
+streamlit==1.29.0
+openai==1.6.1
+requests==2.31.0
+gtts==2.4.0
+Pillow==10.1.0
+python-dotenv==1.0.0
+streamlit-chat==0.1.1
+pandas==2.1.4
+plotly==5.18.0
+pydub==0.25.1
+language-tool-python==2.7.1
+streamlit-lottie==0.0.5
